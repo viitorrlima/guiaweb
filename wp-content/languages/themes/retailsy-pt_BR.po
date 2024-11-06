@@ -1,0 +1,642 @@
+# Translation of Themes - Retailsy in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Retailsy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-07 14:31:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Retailsy\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Retailsy is the ultimate ecommerce multipurpose WordPress theme for online stores. Whether you're selling clothing, electronics, garments, furniture, gadgets, beauty products & all types of store/website. With Retailsy, you can create a stunning and professional looking online store in just a few clicks, It offers a customizable design, mobile-friendly interface, SEO optimization, Fully WooCommerce integration, one-click demo import, and fast loading times. Try Retailsy to create a stunning online store. Unlock all premium features. Visit Retailsy premium demo. https://preview.sellerthemes.com/pro/retailsy"
+msgstr "Retailsy é o tema WordPress multifuncional de comércio eletrônico definitivo para lojas online. Se você está vendendo roupas, eletrônicos, roupas, móveis, gadgets, produtos de beleza e todos os tipos de loja/site. Com o Retailsy, você pode criar uma loja online impressionante e com aparência profissional em apenas alguns cliques. Ele oferece um design personalizável, interface amigável para dispositivos móveis, otimização de SEO, integração total com WooCommerce, importação de demonstração com um clique e tempos de carregamento rápidos. Experimente o Retailsy para criar uma loja online impressionante. Desbloqueie todos os recursos premium. Visite a demonstração premium do Retailsy. https://preview.sellerthemes.com/pro/retailsy"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Retailsy"
+msgstr "Retailsy"
+
+#. translators: %s is the product name
+#: woocommerce/cart/mini-cart.php:53
+msgid "Remove %s from cart"
+msgstr "Remova %s do carrinho"
+
+#: inc/customizer/customizer-options/retailsy-pro.php:29
+msgid "Give us Rating"
+msgstr "Dê-nos avaliação"
+
+#: inc/customizer/customizer-options/retailsy-pro.php:27
+msgid "Ask for Support"
+msgstr "Peça suporte"
+
+#: inc/customizer/customizer-options/retailsy-pro.php:25
+msgid "Purchase Now"
+msgstr "Compre agora"
+
+#: inc/customizer/customizer-options/retailsy-pro.php:23
+msgid "Pro Demo"
+msgstr "Demo da versão Pro"
+
+#: inc/customizer/customizer-options/retailsy-pro.php:7
+msgid "Get More Features in Retailsy Pro"
+msgstr "Obtenha mais recursos no Retailsy Pro"
+
+#: woocommerce/cart/mini-cart.php:112 woocommerce/cart/mini-cart.php:213
+msgid "No products in the cart."
+msgstr "Nenhum produto no carrinho."
+
+#: woocommerce/cart/mini-cart.php:105 woocommerce/cart/mini-cart.php:206
+msgid "Checkout"
+msgstr "Confira"
+
+#: woocommerce/cart/mini-cart.php:104 woocommerce/cart/mini-cart.php:205
+msgid "View Cart"
+msgstr "Ver carrinho"
+
+#: woocommerce/cart/mini-cart.php:103 woocommerce/cart/mini-cart.php:204
+msgid "Continue Shopping"
+msgstr "Continue comprando"
+
+#: woocommerce/cart/mini-cart.php:98 woocommerce/cart/mini-cart.php:199
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/mini-cart.php:154
+msgid "Remove this item"
+msgstr "Remover este item"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "Página de largura completa"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "Página inicial"
+
+#: template-parts/sections/section-header.php:100
+msgid "Browse Categories"
+msgstr "Procurar categorias"
+
+#: template-parts/sections/section-header.php:93
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/sections/section-breadcrumb.php:39
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: template-parts/sections/section-breadcrumb.php:35
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: template-parts/sections/section-breadcrumb.php:31
+msgid "Tag Archives: %s"
+msgstr "Arquivo da tag: %s"
+
+#: template-parts/sections/section-breadcrumb.php:27
+msgid "Category Archives: %s"
+msgstr "Arquivo da categoria: %s"
+
+#: template-parts/sections/section-breadcrumb.php:23
+msgid "Yearly Archives: %s"
+msgstr "Arquivo anual: %s"
+
+#: template-parts/sections/section-breadcrumb.php:19
+msgid "Monthly Archives: %s"
+msgstr "Arquivo mensal: %s"
+
+#: template-parts/sections/section-breadcrumb.php:15
+msgid "Daily Archives: %s"
+msgstr "Arquivo diários: %s"
+
+#: page.php:53 template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue lendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-page.php:33
+#: template-parts/content/content-search.php:33
+msgid "Read More"
+msgstr "Consulte mais informação"
+
+#: template-parts/content/content-page.php:17
+#: template-parts/content/content-search.php:17
+msgid "Comments"
+msgstr "Comentários"
+
+#: template-parts/content/content-none.php:17
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Não conseguimos encontrar o que você está procurando. Talvez fazer uma procura ajude."
+
+#: template-parts/content/content-none.php:15
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Não foi encontrado nenhum resultado correspondente ao seu critério de pesquisa. Por favor tente com outras palavras-chave."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixe um comentário<span class=\"screen-reader-text\"> em %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Marcado %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Publicado em %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/extras.php:731
+msgid "Page"
+msgstr "Página"
+
+#: inc/extras.php:726
+msgid "Error 404 "
+msgstr "Erro 404"
+
+#: inc/extras.php:722
+msgid "Articles posted by "
+msgstr "Artigos publicados por"
+
+#: inc/extras.php:716
+msgid "Posts tagged "
+msgstr "Posts marcados"
+
+#: inc/extras.php:617
+msgid "Search results for "
+msgstr "Pesquisar por"
+
+#: inc/extras.php:611
+msgid "Archive by category"
+msgstr "Arquivo por categoria"
+
+#: inc/extras.php:591
+msgid "Home"
+msgstr "Página inicial"
+
+#: inc/extras.php:589 inc/extras.php:592
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:504
+msgid "Select Category"
+msgstr "Selecionar categoria"
+
+#: inc/extras.php:518
+msgid "Search Products Here"
+msgstr "Pesquise produtos aqui"
+
+#: inc/extras.php:229 inc/extras.php:544
+msgid "0"
+msgstr "0"
+
+#: inc/extras.php:110
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Esta área de widget para WooCommerce Widget"
+
+#: inc/extras.php:108
+msgid "WooCommerce Widget Area"
+msgstr "Área do Widget WooCommerce"
+
+#: inc/extras.php:98 inc/extras.php:100
+msgid "Footer Widget"
+msgstr "Widget de rodapé"
+
+#: inc/extras.php:90
+msgid "The Primary Widget Area"
+msgstr "Área de widgets primária"
+
+#: inc/extras.php:88
+msgid "Sidebar Widget Area"
+msgstr "Área do Widget da Barra Lateral"
+
+#: inc/extras.php:79
+msgid "Header Widget Area 2"
+msgstr "Área do widget de cabeçalho 2"
+
+#: inc/extras.php:70
+msgid "Header Widget Area 1"
+msgstr "Área do widget de cabeçalho 1"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:871
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:904
+msgid "Add Icon"
+msgstr "Adicionar ícone"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:866
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:896
+msgid "Remove Icon"
+msgstr "Remover ícone"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:849
+msgid "Social icons"
+msgstr "Ícones de redes sociais"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:841
+msgid "None"
+msgstr "Nenhum"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:836
+msgid "Image type"
+msgstr "Tipo de imagem"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:825
+msgid "Center"
+msgstr "Centro"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:821
+msgid "Right"
+msgstr "Direita"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:817
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:813
+msgid "Slide Align"
+msgstr "Alinhar slide"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:802
+msgid "Slider Image"
+msgstr "Imagem deslizante"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:776
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:805
+msgid "Upload Image"
+msgstr "Enviar Imagem"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:773
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:840
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:738
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:737
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Nota: Alguns ícones talvez não sejam exibidos aqui. Você pode ver a lista completa de ícones em %1$s."
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:721
+msgid "Open link in new tab:"
+msgstr "Abrir link em uma nova aba:"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:684
+msgid "Delete field"
+msgstr "Apagar campo"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:611
+msgid "Button Label Second"
+msgstr "Etiqueta do botão em segundo lugar"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:507
+msgid "Delete %s"
+msgstr "Excluir %s"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:491
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:673
+msgid "Designation"
+msgstr "Designação"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:483
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:664
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:473
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "Color"
+msgstr "Cor"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:443
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:649
+msgid "Video Url"
+msgstr "URL de vídeo"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:418
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:626
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:410
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:619
+msgid "link"
+msgstr "link"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:402
+msgid "Button Label second"
+msgstr "Etiqueta do botão segundo"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:394
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:603
+msgid "Button Label"
+msgstr "Rótulo do botão"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:387
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:596
+msgid "Description"
+msgstr "Descrição"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:379
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:588
+msgid "Subtitle 5"
+msgstr "Subtítulo 5"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:371
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Subtitle 4"
+msgstr "Subtítulo 4"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:363
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:572
+msgid "Subtitle 3"
+msgstr "Subtítulo 3"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:355
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:564
+msgid "Subtitle 2"
+msgstr "Subtítulo 2"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:347
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:556
+msgid "Subtitle"
+msgstr "Legenda"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:44
+msgid "Customizer Repeater"
+msgstr "Repetidor customizador"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:39
+msgid "Add new field"
+msgstr "Adicione um novo campo"
+
+#: inc/customizer/customizer-options/retailsy_recommended_plugin.php:24
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: inc/customizer/customizer-options/retailsy_recommended_plugin.php:23
+msgid "Activate"
+msgstr "Ativado"
+
+#: inc/customizer/customizer-options/retailsy_recommended_plugin.php:22
+msgid "Install and Activate"
+msgstr "Instalar e ativar"
+
+#: inc/customizer/customizer-options/retailsy_recommended_plugin.php:21
+msgid "Recommended Plugin"
+msgstr "Plugins recomendados"
+
+#: inc/customizer/customizer-options/retailsy_recommended_plugin.php:20
+msgid "Recommended Actions"
+msgstr "Ações recomendadas"
+
+#: inc/customizer/customizer-options/retailsy_recommended_plugin.php:16
+msgid "Install and activate <strong>Classic Widgets</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instale e ative o plug-in <strong>Classic Widgets</strong> para aproveitar ao máximo todos os recursos que esse tema oferece."
+
+#: inc/customizer/customizer-options/retailsy_recommended_plugin.php:12
+#: inc/getting-start.php:40
+msgid "Install and activate <strong>eCommerce Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instale e ative o plug-in <strong>eCommerce Companion</strong> para aproveitar ao máximo todos os recursos que este tema tem a oferecer."
+
+#: inc/customizer/customizer-options/retailsy_recommended_plugin.php:8
+msgid "Install and activate <strong>WooCommerce</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instale e ative o plug-in <strong>WooCommerce</strong> para aproveitar ao máximo todos os recursos que este tema tem a oferecer."
+
+#: inc/customizer/customizer-options/retailsy-header.php:337
+#: inc/customizer/customizer-options/retailsy-header.php:356
+msgid "Sticky Header"
+msgstr "Cabeçalho fixo"
+
+#: inc/customizer/customizer-options/retailsy-header.php:303
+msgid "Product Search"
+msgstr "Pesquisa de produtos"
+
+#: inc/customizer/customizer-options/retailsy-header.php:244
+msgid "Browse Category"
+msgstr "Procurar categoria"
+
+#: inc/customizer/customizer-options/retailsy-header.php:225
+msgid "Browse Section"
+msgstr "Seção de navegação"
+
+#: inc/customizer/customizer-options/retailsy-header.php:212
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:429
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:636
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:863
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:885
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer/customizer-options/retailsy-header.php:174
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:732
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:839
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/customizer/customizer-options/retailsy-header.php:137
+msgid "Contact"
+msgstr "Contato"
+
+#: inc/customizer/customizer-options/retailsy-header.php:116
+msgid "Cart Title"
+msgstr "Título do carrinho"
+
+#: inc/customizer/customizer-options/retailsy-header.php:80
+msgid "Cart"
+msgstr "Carrinho"
+
+#: inc/customizer/customizer-options/retailsy-header.php:60
+#: inc/customizer/customizer-options/retailsy-header.php:97
+#: inc/customizer/customizer-options/retailsy-header.php:154
+#: inc/customizer/customizer-options/retailsy-header.php:263
+#: inc/customizer/customizer-options/retailsy-header.php:322
+#: inc/customizer/customizer-options/retailsy-header.php:373
+msgid "Hide/Show"
+msgstr "Ocultar/Mostrar"
+
+#: inc/customizer/customizer-options/retailsy-header.php:43
+msgid "My Account"
+msgstr "Minha conta"
+
+#: inc/customizer/customizer-options/retailsy-header.php:23
+msgid "Header Navigation"
+msgstr "Navegação de cabeçalho"
+
+#: inc/customizer/customizer-options/retailsy-general.php:143
+msgid "Overlay Color"
+msgstr "Cor da sobreposição"
+
+#: inc/customizer/customizer-options/retailsy-general.php:124
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: inc/customizer/customizer-options/retailsy-general.php:106
+msgid "Background"
+msgstr "Fundo"
+
+#: inc/customizer/customizer-options/retailsy-general.php:85
+msgid "Hide / Show Section"
+msgstr "Ocultar / Mostrar seção"
+
+#: inc/customizer/customizer-options/retailsy-general.php:66
+msgid "Settings"
+msgstr "Configurações"
+
+#: inc/customizer/customizer-options/retailsy-general.php:46
+msgid "Page Breadcrumb"
+msgstr "Caminho da página"
+
+#: inc/customizer/customizer-options/retailsy-general.php:35
+msgid "Hide / Show Scroller"
+msgstr "Ocultar / Mostrar rolagem"
+
+#: inc/customizer/customizer-options/retailsy-general.php:16
+msgid "Top Scroller"
+msgstr "Rolagem superior"
+
+#: inc/customizer/customizer-options/retailsy-general.php:7
+msgid "General"
+msgstr "Geral"
+
+#: inc/customizer/customizer-options/retailsy-footer.php:40
+msgid "Copyright"
+msgstr "Créditos"
+
+#: inc/customizer/customizer-options/retailsy-footer.php:18
+msgid "Below Footer"
+msgstr "Abaixo do rodapé"
+
+#: inc/customizer/customizer-options/retailsy-footer.php:10
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer/customizer-options/retailsy-blog.php:97
+msgid "No of Blog Display"
+msgstr "Nº de exibição do blog"
+
+#: inc/customizer/customizer-options/retailsy-blog.php:78
+msgid "Content"
+msgstr "Conteúdo"
+
+#: inc/customizer/customizer-options/retailsy-blog.php:56
+#: inc/customizer/customizer-options/retailsy-header.php:193
+#: inc/customizer/customizer-options/retailsy-header.php:282
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:339
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:548
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/customizer-options/retailsy-blog.php:37
+#: inc/customizer/customizer-options/retailsy-header.php:12
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: inc/customizer/customizer-options/retailsy-blog.php:15
+msgid "Blog Section"
+msgstr "Seção Blog"
+
+#: inc/customizer/customizer-options/retailsy-blog.php:7
+msgid "Frontpage Sections"
+msgstr "Seções da página inicial"
+
+#: inc/customizer/customizer-notify.php:114
+msgid "Activating"
+msgstr "Ativar"
+
+#: inc/class-wp-bootstrap-navwalker.php:368
+msgid "Add a menu"
+msgstr "Adicionar ao menu"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:25
+msgid "<a href=\"#\">Retailsy</a>"
+msgstr "<a href=\"#\">Retailsy</a>"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: 404.php:17
+msgid "Back To Home"
+msgstr "Voltar para o início"
+
+#: template-parts/content/content-none.php:13
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: inc/customizer/customizer-options/retailsy-footer.php:24
+msgid "Copyright &copy; [current_year] | Powered by [theme_author]"
+msgstr "Direitos autorais &cópia; [current_year] | Desenvolvido por [theme_author]"
+
+#: 404.php:14
+msgid "oops! The page you requested was not found!"
+msgstr "opa! A página que você requisitou não foi encontrada!"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://sellerthemes.com/retailsy-free"
+msgstr "https://sellerthemes.com/retailsy-free"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://sellerthemes.com/"
+msgstr "https://sellerthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Seller Themes"
+msgstr "Seller Themes"
